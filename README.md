@@ -1,4 +1,4 @@
-# Personal site: maxdarling.me
+# maxdarling.me
 
 A personal site in html. Function >> form. 
 
